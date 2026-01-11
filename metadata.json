@@ -1,0 +1,5 @@
+{
+  "name": "PDF to Word Converter",
+  "description": "A modern, client-side application to convert PDF documents into editable Word (.docx) files using React, PDF.js, and docx libraries.",
+  "requestFramePermissions": []
+}
